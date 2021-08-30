@@ -75,5 +75,5 @@ The counter in the  `bookthief`  window will start incrementing.
 
     kubectl delete ns bookbuyer bookthief bookstore bookwarehouse
     helm uninstall book-apps
-    helm uninstall osm -n $OSM_NAMESPACE
+    helm uninstall osm --namespace $OSM_NAMESPACE
     kubectl delete ns $OSM_NAMESPACE
