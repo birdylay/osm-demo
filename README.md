@@ -1,5 +1,6 @@
 # Open Service Mesh (OSM) Demo
 
+For Advanced Cloud Architecture YCIT 020.
 This repository is a subset of the OSM demo provided at https://github.com/openservicemesh/osm/tree/release-v0.9 and https://docs.openservicemesh.io/docs/getting_started/quickstart/manual_demo/
 
 This demo utilises Helm instead of the OSM CLI.   The book microservices have been changed to deploy using one Helm chart.  The access manifest files and port fowarding scripts are pulled from the OSM git repo.
