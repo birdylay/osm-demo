@@ -1,3 +1,5 @@
+[OSM Presentation.pptx](https://github.com/birdylay/osm-demo/files/7080310/OSM.Presentation.pptx)
+
 # Open Service Mesh (OSM) Demo
 
 For Advanced Cloud Architecture YCIT 020.
